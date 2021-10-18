@@ -1,0 +1,44 @@
+[
+   {
+      "id": 1,
+      "name": "Emergency Care",
+      "pic": "https://i.ibb.co/F5XDCRx/service1.png",
+      "description": "We   provide  emergency   ambulance   service  to   people  with  acute   illness  and  pregnancy  in   Dhaka,  as  well  as Chattogram, Sylhet, Rajshahi, Khulna, Cumilla, Rangpur and all other major citites even in some rural areas in Bangladesh. We  have  trained  paramedics,  and  doctors  in  some cases, and a range of fully equipped ambulance vehicles. Our system operates in a  coordinated  partnership among various organizations provide high quality pre-hospital  medical  care.  Basic  life supports  are  provided  in  almost  every ambulance while advanced life support services  are  provided  by  several ambulance  services and all helicopter ambulance services in Bangladesh. These services provide cardiac monitoring, intravenous cannulation, and insert advanced airway system.",
+      "rating": 4.5
+   },
+   {
+      "id": 2,
+      "name": "Health Checkup",
+      "pic": "https://i.ibb.co/LgVSYXV/service2.png",
+      "description": "Prevention is better than cure.The outpatient department offers various tailor-made health screening packages designed to provide an overall comprehensive health check, to detect potential problems, and suggest changes in lifestyle which may reduce the risk of serious illness. Included in this health screening is the completion of a detailed questionnaire, a medical examination by a doctor or consultant and a wide range of tests (depending on the choice of package, age group and other factors).  A full written confidential report by the screening doctor, after having reviewed all the results, is given to the patient. The report will include details of consultation and test results together with recommendations for personal well-being and advice on lifestyle to help improve health and reduce risk of illness.",
+      "rating": 4.3
+   },
+   {
+      "id": 3,
+      "name": "Blood Test",
+      "pic": "https://i.ibb.co/x71qGXB/service3.png",
+      "description": "When you're concerned about your health, waiting for tests and results can be an anxious time.That’s why we're proud to offer Pathology Direct – a quick and easy self-pay service available at 30 Nuffield Health hospitals across the country. Whether you have a referral or not, we can provide the blood tests you need to help diagnose your health concerns.",
+      "rating": 4.1
+   },
+   {
+      "id": 4,
+      "name": "Operation Theater",
+      "pic": "https://i.ibb.co/py1x569/service4.png",
+      "description": "Our OT complex is designed to work round the clock. The main OT complex located in the First Floor constitutes the hub center of the various surgical procedures conducted in this hospital. It has been designed to provide 3 Operation Theatres along with its ancillary departments. Various surgical disciplines like General Surgery, Gynaecology and Obstetrics, Orthopaedic, ENT, Ophthalmology and other specialized fields like Paediatric surgery, Plastic surgery, Laparoscopic and endoscopic surgery, Urology, Neuro surgery conduct the operations.The Three centrally Air-Conditioned fully geared up Modern state of the art operation theatres available are one is for Major operation, another one is for Medium and Minor operations and the third one is exclusively for emergency surgeries.",
+      "rating": 4.9
+   },
+   {
+      "id": 5,
+      "name": "Pharmacy Support",
+      "pic": "https://i.ibb.co/d2zgDX9/service5.png",
+      "description": "Many pharmacies offer a wide range of services to patients in addition to dispensing prescriptions and the sale and supply of non-prescription medicines. The appropriate provision of services by pharmacists can enable and improve patient access to medicines. Such services can also help to detect certain medical conditions at an early stage, help patients to better manage existing conditions and enhance interprofessional collaboration.This section contains guidance on some services, provided in pharmacies. This is to assist pharmacy owners and pharmacists in identifying the relevant legislation that must be complied with, as well as good practice requirements, to ensure that these services are provided in a safe and effective manner",
+      "rating": 4.7
+   },
+   {
+      "id": 6,
+      "name": "24/7 Special Care",
+      "pic": "https://i.ibb.co/Ybmkbs2/service6.png",
+      "description": "Kalra is known for providing advanced emergency services with rapid response for any kind of treatment. We have well-equipped emergency and trauma center with facilities of international standards. Our emergency department is always ready for these services. The department has state-of-the-art equipment and advanced patient monitoring systems to respond to any medical emergency.",
+      "rating": 4.6
+   }
+]

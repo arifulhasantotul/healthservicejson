@@ -41,5 +41,49 @@
       "description": "Kalra is known for providing advanced emergency services with rapid response for any kind of treatment. We have well-equipped emergency and trauma center with facilities of international standards. Our emergency department is always ready for these services. The department has state-of-the-art equipment and advanced patient monitoring systems to respond to any medical emergency.",
       "rating": 4.6
    }
+],
+ "department":[
+   {
+      "id": 1,
+      "name": "Cardiology",
+      "pic": "https://i.ibb.co/3CTzz6v/dep1.png",
+      "details": "Cardiology focuses on the diagnosis and treatment of the cardiovascular system - heart, arteries, and veins.  Your Cardiologist may order specialized testing to determine which treatment options are best for you. Those tests can be performed here at Memorial Hospital, close to home, saving you time and money.",
+      "rating": "4.2"
+   },
+   {
+      "id": 2,
+      "name": "Neurology",
+      "pic": "https://i.ibb.co/zRCt9tR/dep2.png",
+      "details": "Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems (and their subdivisions, the autonomic and somatic nervous systems), including their coverings, blood vessels, and all effector tissue, such as muscle.[1] Neurological practice relies heavily on the field of neuroscience, the scientific study of the nervous system.",
+      "rating": "4.3"
+   },
+   {
+      "id": 3,
+      "name": "Dental Care",
+      "pic": "https://i.ibb.co/kDgWZfv/dep3.png",
+      "details": "CommuniCare Health Centers provides comprehensive dental care for children and adults. We provide preventive care in order to help our patients maintain a healthy mouth, as well as comprehensive restorative care to treat existing dental problems. Our dental staff not only treats dental disease, but also educates our patients on the importance of good oral hygiene and proper diet so that future dental problems may be prevented.We provide patients with the following services in our Dental Program:Pediatric Dentistry,Exams,Cleanings,Sealants,Fillings,Root Canals,Extractions,Crowns,Bridges,Dentures and Partials",
+      "rating": "4.4"
+   },
+   {
+      "id": 4,
+      "name": "Eye Care",
+      "pic": "https://i.ibb.co/C9cjvB8/dep4.png",
+      "details": "Our optometrist at Five Points Eye Care provides eyewear prescriptions and offers corrective laser eye surgery co-management as well. You can get in touch with our eye doctor's office to set up an appointment at your convenience and learn more about some of our key services below.Our Eye Care Services:Blue Light,Comprehensive Eye Exams,Orthokeratology (CRT & VST),Pediatric Eye Exams,Management of Ocular Diseases,Emergency Eye Care Services,Eye Emergencies (Pink/Red Eyes),LASIK & Refractive Surgery Co-Management,InfantSEE®,Low Vision, Astigmatism Diagnosis & Treatment",
+      "rating": "4.6"
+   },
+   {
+      "id": 5,
+      "name": "Lab service",
+      "pic": "https://i.ibb.co/chxhjm3/dep5.png",
+      "details": "Chemistry – Routine chemistry testing including: glucose, lipid profile and cardiac testing.Coagulation – Protime testing for monitoring of Coumadin dosages.Hematology – Routine blood cell counts including hemoglobin and hematocrit.Histology – Surgical pathology of tissue specimens.Microbiology – Studying microorganisms (bacteria; AFB, fungi, viruses).Serology – Testing for various diseases, including allergies.Transfusion Services – Pre-transfusion services of blood products for inpatients and outpatients.Urinalysis – Examination of urine specimens for bacterial infections, etc.Urine Drug Testing – Collection of urine specimens; Licensed DOT and Non-DOT Collectors; off-site collection in community also available.",
+      "rating": "4.7"
+   },
+   {
+      "id": 6,
+      "name": "Vaccination",
+      "pic": "https://i.ibb.co/16VWK4N/dep6.png",
+      "details": "Immunization is a global health and development success story, saving millions of lives every year. Vaccines reduce risks of getting a disease by working with your body’s natural defences to build protection. When you get a vaccine, your immune system responds.We now have vaccines to prevent more than 20 life-threatening diseases, helping people of all ages live longer, healthier lives. Immunization currently prevents 2-3 million deaths every year from diseases like diphtheria, tetanus, pertussis, influenza and measles.Immunization is a key component of primary health care and an indisputable human right. It’s also one of the best health investments money can buy. Vaccines are also critical to the prevention and control of infectious-disease outbreaks. They underpin global health security and will be a vital tool in the battle against antimicrobial resistance.Yet despite tremendous progress, far too many people around the world – including nearly 20 million infants each year – have insufficient access to vaccines. In some countries, progress has stalled or even reversed, and there is a real risk that complacency will undermine past achievements.Global vaccination coverage – the proportion of the world’s children who receive recommended vaccines – has remained the same over the past few years.",
+      "rating": "4.8"
+   }
 ]
 }
